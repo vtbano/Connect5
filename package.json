@@ -1,11 +1,11 @@
 {
   "name": "connect5",
   "version": "1.0.0",
-  "main": "gameDesign.js",
+  "main": "gameIndex.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Vanessa Bano <vtbano@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "2d-array-rotation": "^2.1.1",
@@ -13,5 +13,13 @@
     "tic-tac-toe-js": "^0.0.2",
     "tictactoe-board": "^1.1.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vtbano/Connect5.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vtbano/Connect5/issues"
+  },
+  "homepage": "https://github.com/vtbano/Connect5",
   "description": ""
 }
