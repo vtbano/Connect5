@@ -1,5 +1,5 @@
 {
-  "name": "connect5",
+  "name": "@vtbano/connect5",
   "version": "1.0.0",
   "main": "gameIndex.js",
   "scripts": {
