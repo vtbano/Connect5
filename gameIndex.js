@@ -351,7 +351,7 @@ const shiftTile = async (newMarkedBoard, currentSym) => {
   playGame(newShiftedBoard(newMarkedBoard), nextSym);
 };
 
-// playGame(gameboard, symbol.x);
+playGame(gameboard, symbol.x);
 
 module.exports = {
   symbol,
