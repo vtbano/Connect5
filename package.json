@@ -1,0 +1,17 @@
+{
+  "name": "connect5",
+  "version": "1.0.0",
+  "main": "gameDesign.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "2d-array-rotation": "^2.1.1",
+    "prompts": "^2.4.2",
+    "tic-tac-toe-js": "^0.0.2",
+    "tictactoe-board": "^1.1.0"
+  },
+  "description": ""
+}
