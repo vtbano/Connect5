@@ -24,7 +24,6 @@ For each turn:
 
 ### Sample Board
 ```
-
 QUAD 1|QUAD 2
 +---+---+---+
 |, , ,|, , ,|
@@ -53,8 +52,6 @@ QUAD 3|QUAD 4
 ```
 ### Shift Quad Example
 ```
-
- 
 Below is an example with where QUAD 1,QUAD 2 and QUAD 4 have markers in them.
 We will choose to shift QUAD 1.
 
