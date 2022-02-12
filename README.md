@@ -1,6 +1,6 @@
 ##### Connect 5 demo
 
-####Install
+#### Install
 
 To install the game in your terminal, follow the steps below:
 
@@ -12,7 +12,7 @@ To install the game in your terminal, follow the steps below:
 ```
 
 
-####Game Objective
+#### Game Objective
 
 
 Each player tries to be the first to connect **5 markers** *horizontally, vertically, or diaganolly*.
@@ -23,7 +23,7 @@ For each turn:
  2. After the marker has been placed, the current player must select a quad to shift left or right.*Refer to the **Shift Quad Example** in the section below*
 
 ```
-###Sample Board
+### Sample Board
 
 QUAD 1|QUAD 2
 +---+---+---+
@@ -52,7 +52,7 @@ QUAD 3|QUAD 4
 +---+---+---+
 ```
 ```
-###Shift Quad Example
+### Shift Quad Example
  
 Below is an example with where QUAD 1,QUAD 2 and QUAD 4 have markers in them.
 We will choose to shift QUAD 1.
