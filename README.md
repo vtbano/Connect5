@@ -1,6 +1,6 @@
-###### Connect 5
+# Connect 5
 
-#### Install
+### Install
 
 To install the game in your terminal, follow the steps below:
 
@@ -12,7 +12,7 @@ To install the game in your terminal, follow the steps below:
 ```
 
 
-#### Game Objective
+### Game Objective
 
 
 Each player tries to be the first to connect **5 markers** *horizontally, vertically, or diaganolly*.
@@ -22,7 +22,7 @@ For each turn:
  1. A single marker must be placed in a quad. The player must indicate the row (1,2,3), column (1,2,3) and quad(quad1,quad2,quad3,quad4). *Refer to the **Sample Board** in the section below*
  2. After the marker has been placed, the current player must select a quad to shift left or right.*Refer to the **Shift Quad Example** in the section below*
 
-### Sample Board
+#### Sample Board
 ```
 
 QUAD 1|QUAD 2
@@ -51,7 +51,7 @@ QUAD 3|QUAD 4
 |, , ,|, , ,| ROW 3
 +---+---+---+
 ```
-### Shift Quad Example
+#### Shift Quad Example
 ```
 
  
