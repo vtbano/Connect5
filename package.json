@@ -9,18 +9,18 @@
   "license": "ISC",
   "dependencies": {
     "2d-array-rotation": "^2.1.1",
-    "prompts": "^2.4.2",
-    "tic-tac-toe-js": "^0.0.2",
-    "tictactoe-board": "^1.1.0"
+    "prompts": "^2.4.2"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vtbano/Connect5.git"
+    "url": "git+https://github.com/vtbano/Connect5.git"
   },
   "bugs": {
     "url": "https://github.com/vtbano/Connect5/issues"
   },
   "homepage": "https://github.com/vtbano/Connect5",
-  "bin": "gameIndex.js",
-  "description": ""
+  "bin": {
+    "connect5": "gameIndex.js"
+  },
+  "description": "## Install"
 }
